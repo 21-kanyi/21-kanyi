@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 programmer
 ----------
 
-just learning programming
+I'm a student learning programming and my goal is to perfect the multiple programming languages I've learned so that I can create programs that will better the world.
 
 * 🌍  I'm based in kamiti corner
 * ✉️  You can contact me at [kanyieast254@gmail.com](mailto:kanyieast254@gmail.com)
-* 🧠  I'm learning coding
+* 🧠  I'm learning programming and debugging
+* 🤝  I'm open to collaborating on projects
+* ⚡  I'm looking for opportunities to better myself. I would appreciate all the help I can get.
 
 ### Skills
 
